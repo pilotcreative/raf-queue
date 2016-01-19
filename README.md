@@ -7,7 +7,7 @@ Batch jobs to fire in the next frame using requestAnimationFrame.
 with component:
 
 ```
-component install anthonyshort/raf-queue
+component install pilotcreative/raf-queue
 ```
 
 with browserify and friends:
